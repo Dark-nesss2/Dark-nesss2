@@ -1,1 +1,1 @@
-### Hello, Hello. Sou Maria Eduarda, Também sou Conhecida pelo meu Nickmame Dark.
+### Oi, Sou Maria Eduarda. Possuo um Nickname em Geral como: Dark.
