@@ -11,7 +11,6 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Discord" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="Github" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> 
   <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <img align="right" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,6 +21,6 @@
   
   ##
   
-![banner](https://media.discordapp.net/attachments/971504474612985879/974336995067314176/unknown.png?width=1120&height=223)
+![banner](https://media.discordapp.net/attachments/943296241385742346/975755524450713631/unknown.png)
 
   
