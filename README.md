@@ -22,6 +22,6 @@
   
   ##
   <div>
-<img align="center" height="350" width="1080"src="https://media.discordapp.net/attachments/959917537074769951/975903867491483648/unknown.png">
+<img align="center" height="320" width="1080"src="https://media.discordapp.net/attachments/959917537074769951/975903867491483648/unknown.png">
 </div>
   
