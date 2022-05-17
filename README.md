@@ -11,7 +11,7 @@
   <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <img align="center" alt="Instagram" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   <a href="https://github.com/Dark-nesss2">
-    <img align="left" height="190" width="190" src="https://media.discordapp.net/attachments/943296241385742346/975905504394104902/dfsdff.png?width=412&height=412"/>
+    <img align="left" height="220" width="220" src="https://media.discordapp.net/attachments/943296241385742346/975905504394104902/dfsdff.png?width=412&height=412"/>
    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Dark-nesss2&show_icons=true&theme=rainglow&include_all_commits=true&count_private=true"/>
       
 </div>
