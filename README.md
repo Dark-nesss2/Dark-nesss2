@@ -1,8 +1,8 @@
 ### Darknesss2,
-- Comecei a me Interessar por Programação apartir do Discord, uma Rede Social.
-- O Meu Primeiro Bot, foi a Aliria. Um Bot de Economia para Diversão em Node.js, na Linguagem JavaScript.
-- Com 18 anos, através de um Curso, Criei meu Primeiro Projeto. Um SelectPlayer, uma Janela de Escolher Personagens.
-- Meus Hobbies Costumam ser Desenhar e Escrever. Gosto Bastante da Cultura Japonesa.
+- 📑Comecei a me Interessar por Programação apartir do Discord, uma Rede Social.
+- 💀O Meu Primeiro Bot, foi a Aliria. Um Bot de Economia no Tema de Submundo para Diversão em Node.js, na Linguagem JavaScript.
+- 👾Com 18 anos, através de um Curso, Criei meu Primeiro Projeto. Um SelectPlayer, uma Janela de Escolher Personagens.
+- 🍣Meus Hobbies Costumam ser Desenhar e Escrever. Gosto Bastante da Cultura Japonesa.
 
 ##
 
@@ -20,15 +20,16 @@
  
 ### Curiosidades:
   
-  - Programo por Vontade Própria e Gosto Bastante. É o que Ocupa meu Tempo.
-  - Gosto de Animes e Mangás. Sabia que tenho uns 50 só aqui do meu Lado?
-  - Costumo Comer enquanto Programo. Mastigar algo enquanto digito diminue o meu Estresse.
-  - Tenho uma Dogzinha muito Amavél que me Ajuda nos Momentos Tristes de Erros e Falhas.
+- 💻Programo por Vontade Própria e Gosto Bastante. É o que Ocupa meu Tempo.
+- 🏮Gosto de Animes e Mangás. Sabia que tenho uns 50 só aqui do meu Lado?
+- 🍨Costumo Comer enquanto Programo. Mastigar algo enquanto digito diminue o meu Estresse.
+- 🐶Tenho uma Dogzinha muito Amavél que me Ajuda nos Momentos Tristes de Erros e Falhas.
   
 ##
   
 ### Linguagem de Programação: 
-  
+ - ⛔JavaScript, TypeScript, html, css, python.
+    
   <div style="display: inline_block"><br>
 
   <img align="left" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
