@@ -1,4 +1,4 @@
-### Darknesss2,
+# Darknesss2 (<\DarkCode>), 
 - 📑Comecei a me Interessar por Programação apartir do Discord, uma Rede Social.
 - 💀O Meu Primeiro Bot, foi a Aliria. Um Bot de Economia no Tema de Submundo para Diversão em Node.js, na Linguagem JavaScript.
 - 👾Com 18 anos, através de um Curso, Criei meu Primeiro Projeto. Um SelectPlayer, uma Janela de Escolher Personagens.
