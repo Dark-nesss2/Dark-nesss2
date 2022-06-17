@@ -7,9 +7,10 @@
 ##
 
 <div align="left">
-    <img align="center" alt="Discord" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <img align="center" alt="Instagram" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   <a href="https://github.com/Dark-nesss2">
     <img align="left" height="220" width="220" src="https://media.discordapp.net/attachments/943296241385742346/987434752590098442/dfsdff.png?width=547&height=547"/>
    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=darknesss2&show_icons=true&theme=rainglow&include_all_commits=true&count_private=true"/>
