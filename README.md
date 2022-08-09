@@ -12,3 +12,6 @@
   <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=darknesss2&style=flat-square&color=blue" alt=""/>
+</div>
