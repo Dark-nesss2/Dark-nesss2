@@ -15,3 +15,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=darknesss2&style=flat-square&color=blue" alt=""/>
 </div>
+<h1 align="center">
+  <img src="https://uploads.twitchalerts.com/000/075/043/042/AW4123567_05.gif" width="50px"/>
+  Oi,Oi! Eu sou a Darknesss2! 
+  <img src="https://uploads.twitchalerts.com/000/075/043/042/AW4123567_05.gif" width="50px"/>
+</h1>
