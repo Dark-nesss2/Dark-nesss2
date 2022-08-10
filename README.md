@@ -31,7 +31,7 @@
 
 ### <img src="https://media.discordapp.net/attachments/990311525904433172/1006691640217456650/PcDarkCode.png" width="23px"> Minhas Informações:
 Olá, Eu sou a Darknesss2, Dona do Projeto DarkCodes! Sou Atualmente uma Programadora Junior de Front End.
-- 🔭| Trabalhocm Sites e Desenvolmento de Bot's. Futuramente, Quero Expandir meu Conhecimento para Virar Back End também.
-- Atualmente, sou Estudante de 2 Cursos de Programação. enho Muito Tempo Livre e Uso ele para sempre Aprender mais.
-- Além de Programadora, Sou Designer no meu Tempo Livre. Costumo sempre me Adaptar ao Estilo do Momento e Testar minha Capacidade de Criativade!
-- Sou Esforçada, Interativa. Gosto de sempre Colocar um Pouco de Mim nos meus Projetos. Isso os Torna Ainda mais Animadores de Exercutar-los.
+- 🔭| Trabalho com Sites e Desenvolmento de Bot's. Futuramente, Quero Expandir meu Conhecimento para Virar Back End também.
+- 📑| Atualmente, sou Estudante de 2 Cursos de Programação. enho Muito Tempo Livre e Uso ele para sempre Aprender mais.
+- 🎨| Além de Programadora, Sou Designer. Costumo sempre me Adaptar ao Estilo do Momento e Testar minha Capacidade de Criativade!
+- 🧶|  Sou Esforçada, Interativa. Gosto de sempre Colocar um Pouco de Mim nos meus Projetos. Isso os Torna Ainda mais Animadores de Exercutar-los.
