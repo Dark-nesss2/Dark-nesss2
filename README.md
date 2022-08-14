@@ -31,8 +31,8 @@
 
 ### <img src="http://68.media.tumblr.com/2bcd5f1584814fb90fb001cf5519a27f/tumblr_oqqshj6MUC1vjxr9zo1_500.gif" width="35px"> Minhas Informações:
 Olá, Eu sou a Darknesss2, Dona do Projeto DarkCodes! Sou Atualmente uma Programadora Junior de Front End.
-- 🔭| Trabalho com Sites e Desenvolmento de Bot's. Futuramente, Quero Expandir meu Conhecimento para Virar Back End também.
-- 📑| Atualmente, sou Estudante de 2 Cursos de Programação. enho Muito Tempo Livre e Uso ele para sempre Aprender mais.
+- 🔭| Trabalho com Sites e Desenvolmento de Bot's. Futuramente, quero Expandir meu Conhecimento para Virar Back End também.
+- 📑| Atualmente, sou Estudante de 2 Cursos de Programação.Uso meu Tempo Livre para Aprender mais.
 - 🎨| Além de Programadora, Sou Designer. Costumo sempre me Adaptar ao Estilo do Momento e Testar minha Capacidade de Criativade!
 - 🧶|  Sou Esforçada, Interativa. Gosto de sempre Colocar um Pouco de Mim nos meus Projetos. Isso os Torna Ainda mais Animadores de Exercutar-los.
 
