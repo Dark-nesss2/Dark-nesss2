@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.discordapp.net/attachments/990311525904433172/1006585031688454194/DarkCodes_-_Logo.png"?width=545&height=545" width="200"/>
+  <img src="https://media.discordapp.net/attachments/1032312893825364038/1034916479981867078/DarkCodesLogoI.png?width=478&height=478" width="200"/>
 </div>
 <div id="badges" align="center">
 <a href="https://github.com/darknesss2">
@@ -23,7 +23,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/990311525904433172/1006699982801342484/BannerDarkCode.png" width="600" height="300"/>
+  <img src="https://media.discordapp.net/attachments/1032312893825364038/1034917633847459971/DarkCodesLogo_-_Oficial.png" width="600" height="235"/>
 </div>
 
 ---
